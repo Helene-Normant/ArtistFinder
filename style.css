@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&family=Bebas+Neue&family=Josefin+Slab:wght@100&family=Merriweather:wght@300&family=Raleway:wght@100&family=Roboto&family=Roboto+Condensed&family=Rubik+Mono+One&family=Tajawal:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* maintenir les dimensions d'une div avec son padding */
+    text-decoration: none; /* supprime les barres des liens */
+}
+ html {
+     font-size: 62.5%; /* 1rem = 10px */
+ }
+
+ body {
+     font-size: 1.4rem ; /* 14 px*/
+     font-size:'Josefin Slab';
+     color: #272727;
+     background-color: #eae1d4;
+ }
+
+ .container {
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     align-items: center;
+ }
+
+ .btn-plus {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background-color: darkkhaki;
+    border: none;
+    color: #eae1d4;
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-left: 55rem;
+ }
+
+ #resultat {
+    margin-top : 2rem;
+    width: 40%;
+    padding: 3rem;
+    margin: 0 auto;
+ }
+
+ .img-artist {
+    max-width: 100%;
+ }
+
+ .btn {
+    margin-top: 2rem;
+    text-align: center;
+ }
+
+ .btn-insta {
+    background-color: darkkhaki;
+    color: #eae1d4;
+    margin-top: 2rem;
+    padding: 1rem;
+ }
+
+ h1 {
+    text-align: center;
+ }
+
+ h2 {
+    text-align: center;
+ }
