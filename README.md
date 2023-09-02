@@ -1,19 +1,13 @@
-# ArtistFinder
-> API fetch 
-
-> Discover new fotografers
-
-> Refresh button to discover different artists
-
-> Instagram link button for more informations about it
-
-<p align="center">
+<h3 align="center"> ArtistFinder <h3/>
+<div align="center">
   <img src="https://github.com/Helene-Normant/ArtistFinder/blob/main/find.png?row=true" width="350" alt="accessibility text">
-</p>
+
+ #### Built With
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+</div>
 
 
-API from https://unsplash.com
-using the RANDOM PHOTO category
 
-CSS/HTML/Javascript
 
